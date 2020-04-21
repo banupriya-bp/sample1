@@ -1,1 +1,1 @@
-# first commit changes in origin/master( sample1 )
+# first commit changes in branch trial( sample1 )
